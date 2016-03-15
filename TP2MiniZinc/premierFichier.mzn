@@ -1,5 +1,5 @@
-
 % Colouring Australia using nc colours
+
 int: nc = 3;
 var 1..nc: wa;
 var 1..nc: nt;
